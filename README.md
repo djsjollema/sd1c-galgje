@@ -23,3 +23,4 @@
 ## Beurtenlog
 - beurt1: <Naam> gokt "A" * is goed
 - beurt2: <Aloys> gokt "E" is goed
+- beurt3: <Aloys> gokt "Q" 
