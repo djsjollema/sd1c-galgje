@@ -11,7 +11,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | A | . | . | . | . | A | A | . | . | . | . |
+| . | A | . | . | E | . | A | A | . | . | A | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
@@ -22,4 +22,4 @@
 
 ## Beurtenlog
 - beurt1: <Naam> gokt "A" * is goed
-- beurt2: <Aloys> gokt "E" 
+- beurt2: <Aloys> gokt "E" is goed
