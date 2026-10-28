@@ -16,11 +16,11 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/1.png)
+![status](images/2.png)
 
 ---
 
 ## Beurtenlog
 - beurt1: <Naam> gokt "A" * is goed
 - beurt2: <Aloys> gokt "E" is goed
-- beurt3: <Aloys> gokt "Q" 
+- beurt3: <Aloys> gokt "Q" **fout**
